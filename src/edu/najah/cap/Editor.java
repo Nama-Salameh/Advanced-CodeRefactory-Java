@@ -1,4 +1,4 @@
-package edu.najah.cap;
+package src.edu.najah.cap;
 
 import java.awt.BorderLayout;
 import java.awt.event.ActionEvent;

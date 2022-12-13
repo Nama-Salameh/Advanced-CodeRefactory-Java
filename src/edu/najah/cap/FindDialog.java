@@ -1,4 +1,6 @@
-package edu.najah.cap;
+package src.edu.najah.cap;
+
+import src.edu.najah.cap.Editor;
 
 import java.awt.GridLayout;
 import java.awt.event.ActionEvent;
